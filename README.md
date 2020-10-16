@@ -12,5 +12,4 @@ Once the password is generated you are able to highlight the password and copy t
 
 
 
-
-by Georgette. Bondarek 
+by Georgette Bondarek 
